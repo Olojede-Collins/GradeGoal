@@ -1,4 +1,4 @@
-﻿# Build Directories & Artifacts
+# Build Directories & Artifacts
 build/
 build-*/
 bin/
@@ -51,3 +51,6 @@ desktop.ini
 .idea/
 *.swp
 *~
+
+# Teaching Workspace Artifacts
+.teach/
